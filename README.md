@@ -14,7 +14,6 @@ Ready to perform and expand my capabilities in a professional tech environment.
 
 <div>
   <p align="left">
-    
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.svgrepo.com/show/353925/javascript.svg"
@@ -118,7 +117,6 @@ Ready to perform and expand my capabilities in a professional tech environment.
         width="40"
       />
     </a>
-
   </p>
 </div>
 

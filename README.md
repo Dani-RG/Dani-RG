@@ -1,4 +1,4 @@
-### Hi there 👋
+### Daniel Rondon Garcia
 
 <!--
 **Dani-RG/Dani-RG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm a Full Stack Web Developer recently graduated from Ironhack, proficient in Javascript (ES6) and MERN Stack: MongoDB, Express.js, React.js, Node.js, HTML and CSS.
+Ready to perform and expand my capabilities in a professional tech environment.

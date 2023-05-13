@@ -48,7 +48,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
     &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://www.svgrepo.com/show/354090/mongodb.svg"
+        src="https://www.svgrepo.com/show/331488/mongodb.svg"
         alt="mongodb"
         width="40"
       />
@@ -64,7 +64,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
     &nbsp;
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
       <img
-        src="https://www.svgrepo.com/show/376337/node-js.svg"
+        src="https://www.svgrepo.com/show/452075/node-js.svg"
         alt="nodejs"
         width="40"
       />
@@ -72,7 +72,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
     &nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://www.svgrepo.com/show/354201/postman.svg"
+        src="https://www.svgrepo.com/show/354202/postman-icon.svg"
         alt="postman"
         width="40"
       />

@@ -125,18 +125,22 @@ Ready to perform and expand my capabilities in a professional tech environment.
 ## Recent projects:
 
 ### Nature Heroes
+![NatureHeroes_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/25dc300b-37d9-4b41-85ae-f3f52da7d41a)
 - [Deployed App](https://nature-heroes.netlify.app/)
 - [Deployed REST API](https://nature-heroes.fly.dev/)
-- [Frontend repository](https://nature-heroes.netlify.app/)
-- [Backend repository](https://nature-heroes.netlify.app/)
+- [Frontend repository](https://github.com/Dani-RG/frontend-template-m3)
+- [Backend repository](https://github.com/Dani-RG/backend-template-m3)
 - [Presentation slides](https://slides.com/daniel_rg/presentacion-daniel-rondon#/portada)
 
 ### MarkGet
+<img width="330" alt="MarkGet_screenshot" src="https://github.com/Dani-RG/Dani-RG/assets/115584425/bd747b30-0ed6-4ee1-a2b7-22f578474018">
 - [Deployed App](https://markget.fly.dev/)
 - [GitHub repository](https://github.com/Module-2-project-Product-Compare/Module-2-Project-Product-Compare)
 - [Presentation slides](https://slides.com/giovannibedoya/minimal-63ce59/review)
 
 ### At 18:34!
+![At1834_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/e0fd955e-7a01-4d56-ade8-41a59c805a84)
+
 - [Deployed Game](https://dani-rg.github.io/Project-1_Game_At-18.34/)
 - [GitHub repository](https://github.com/Dani-RG/Project-1_Game_At-18.34)
 - [Presentation slides](https://docs.google.com/presentation/d/1lETyle4kk4kF9TGLjVBRKw0_gSYu4hsb3OhakzBg2XA/edit#slide=id.g1f87997393_0_782)

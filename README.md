@@ -123,3 +123,20 @@ Ready to perform and expand my capabilities in a professional tech environment.
 ---
 
 ## Recent projects:
+
+### Nature Heroes
+- [Deployed App](https://nature-heroes.netlify.app/)
+- [Deployed REST API](https://nature-heroes.fly.dev/)
+- [Frontend repository](https://nature-heroes.netlify.app/)
+- [Backend repository](https://nature-heroes.netlify.app/)
+- [Presentation slides](https://slides.com/daniel_rg/presentacion-daniel-rondon#/portada)
+
+### MarkGet
+- [Deployed App](https://markget.fly.dev/)
+- [GitHub repository](https://github.com/Module-2-project-Product-Compare/Module-2-Project-Product-Compare)
+- [Presentation slides](https://slides.com/giovannibedoya/minimal-63ce59/review)
+
+### At 18:34!
+- [Deployed Game](https://dani-rg.github.io/Project-1_Game_At-18.34/)
+- [GitHub repository](https://github.com/Dani-RG/Project-1_Game_At-18.34)
+- [Presentation slides](https://docs.google.com/presentation/d/1lETyle4kk4kF9TGLjVBRKw0_gSYu4hsb3OhakzBg2XA/edit#slide=id.g1f87997393_0_782)

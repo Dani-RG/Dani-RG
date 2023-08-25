@@ -4,7 +4,7 @@
 
 Hello everyone!
 
-I'm a Full Stack Web Developer graduated from Ironhack, proficient in Javascript (ES6) and MERN Stack: MongoDB, Express.js, React.js, Node.js, HTML and CSS.
+I'm a Full Stack Web Developer from Ironhack, proficient in Javascript and MERN Stack: MongoDB, Express.js, React.js, Node.js, HTML and CSS. TypeScript.
 
 Ready to perform and expand my capabilities in a professional tech environment.
 
@@ -114,6 +114,14 @@ Ready to perform and expand my capabilities in a professional tech environment.
       <img
         src="https://www.svgrepo.com/show/376339/netlify.svg"
         alt="netlify"
+        width="40"
+      />
+    </a>
+        &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.svgrepo.com/show/354478/typescript-icon.svg"
+        alt="typescript"
         width="40"
       />
     </a>

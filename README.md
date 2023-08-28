@@ -4,7 +4,7 @@
 
 Hello everyone!
 
-I'm a Full Stack Web Developer from Ironhack, proficient in Javascript and MERN Stack: MongoDB, Express.js, React.js, Node.js. HTML, CSS and TypeScript.
+I'm a Full Stack Web Developer proficient in Javascript, TypeScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS.
 
 Ready to perform and expand my capabilities in a professional tech environment.
 

@@ -4,7 +4,7 @@
 
 Hello everyone!
 
-I'm a Full Stack Web Developer proficient in Javascript, React.js, Node.js, Express.js, MongoDB, HTML, CSS & TypeScript.
+I'm a Full Stack Web Developer proficient in JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS & TypeScript.
 
 Ready to perform and expand my capabilities in a professional tech environment.
 
@@ -132,12 +132,19 @@ Ready to perform and expand my capabilities in a professional tech environment.
 
 ## Recent projects:
 
+![Portfolio_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/3073e1c5-1759-4e06-8bb4-38b8f46030a9)
+### Portfolio:
+- [Webpage link](https://danieldeweb.com/)
+- [GitHub Repository](https://github.com/Dani-RG/Portfolio-DanielRondon-V1)
+
+---
+
 ![NatureHeroes_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/25dc300b-37d9-4b41-85ae-f3f52da7d41a)
 ### Nature Heroes:
 - [Deployed App](https://nature-heroes.netlify.app/)
 - [Deployed REST API](https://nature-heroes.fly.dev/)
-- [Frontend repository](https://github.com/Dani-RG/frontend-template-m3)
-- [Backend repository](https://github.com/Dani-RG/backend-template-m3)
+- [Frontend repository](https://github.com/Dani-RG/Nature-Heroes_frontend)
+- [Backend repository](https://github.com/Dani-RG/Nature-Heroes_backend)
 - [Presentation slides](https://slides.com/daniel_rg/presentacion-daniel-rondon#/portada)
 
 ---

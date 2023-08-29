@@ -4,7 +4,7 @@
 
 Hello everyone!
 
-I'm a Full Stack Web Developer proficient in Javascript, TypeScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS.
+I'm a Full Stack Web Developer proficient in Javascript, React.js, Node.js, Express.js, MongoDB, HTML, CSS & TypeScript.
 
 Ready to perform and expand my capabilities in a professional tech environment.
 

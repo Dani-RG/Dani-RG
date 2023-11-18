@@ -132,8 +132,16 @@ Ready to perform and expand my capabilities in a professional tech environment.
 
 ## Recent projects:
 
+![jerry-personal-finance-assistant netlify app_(iPhone 12 Pro) (1)](https://github.com/Dani-RG/Dani-RG/assets/115584425/8a8fd87a-0d2a-4450-9c27-46d458f5ebba)
+### JERRY: Personal finance assistant:
+Full Stack web application. React & TypeScript
+- [Webpage link](https://jerry-personal-finance-assistant.netlify.app/)
+
+---
+
 ![Portfolio_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/3073e1c5-1759-4e06-8bb4-38b8f46030a9)
 ### Portfolio:
+Personal webpage. React & JavaScript
 - [Webpage link](https://danieldeweb.com/)
 - [GitHub Repository](https://github.com/Dani-RG/Portfolio-DanielRondon-V1)
 
@@ -141,6 +149,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
 
 ![NatureHeroes_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/25dc300b-37d9-4b41-85ae-f3f52da7d41a)
 ### Nature Heroes:
+Full Stack web application. React & JavaScript
 - [Deployed App](https://nature-heroes.netlify.app/)
 - [Deployed REST API](https://nature-heroes.fly.dev/)
 - [Frontend repository](https://github.com/Dani-RG/Nature-Heroes_frontend)
@@ -151,6 +160,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
 
 ![MarkGet_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/65b876ae-7e28-4b14-bac3-64362cf63f6e)
 ### MarkGet:
+Full Stack web application. JavaScript & Handlebars
 - [Deployed App](https://markget.fly.dev/)
 - [GitHub repository](https://github.com/Module-2-project-Product-Compare/Module-2-Project-Product-Compare)
 - [Presentation slides](https://slides.com/giovannibedoya/minimal-63ce59/review)
@@ -159,6 +169,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
 
 ![At1834_screenshot](https://github.com/Dani-RG/Dani-RG/assets/115584425/3784778f-26f4-454c-8c1f-b38d91287ee1)
 ### At 18:34!:
+Videogame. JavaScript
 - [Deployed Game](https://dani-rg.github.io/Project-1_Game_At-18.34/)
 - [GitHub repository](https://github.com/Dani-RG/Project-1_Game_At-18.34)
 - [Presentation slides](https://docs.google.com/presentation/d/1lETyle4kk4kF9TGLjVBRKw0_gSYu4hsb3OhakzBg2XA/edit#slide=id.g1f87997393_0_782)

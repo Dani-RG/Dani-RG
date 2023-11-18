@@ -132,7 +132,7 @@ Ready to perform and expand my capabilities in a professional tech environment.
 
 ## Recent projects:
 
-![jerry-personal-finance-assistant netlify app_(iPhone 12 Pro) (1)](https://github.com/Dani-RG/Dani-RG/assets/115584425/8a8fd87a-0d2a-4450-9c27-46d458f5ebba)
+![jerry-personal-finance-assistant netlify app_(iPhone 12 Pro) SMALL](https://github.com/Dani-RG/Dani-RG/assets/115584425/a8ff8e58-1051-462a-94b1-fd648b115371)
 ### JERRY: Personal finance assistant:
 Full Stack web application. React & TypeScript
 - [Webpage link](https://jerry-personal-finance-assistant.netlify.app/)

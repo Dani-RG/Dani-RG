@@ -6,7 +6,7 @@ Hello everyone!
 
 I'm a Full Stack Web Developer proficient in JavaScript, TypeScript, React.js, Redux, Node.js, Express.js, MongoDB, MERN stack. HTML & CSS.
 
-With a focus on constant evolution through personal and professional growth.
+In constant search for new challenges that promote my personal improvement and professional growth.
 
 #
 

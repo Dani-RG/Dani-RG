@@ -4,9 +4,9 @@
 
 Hello everyone!
 
-I'm a Full Stack Web Developer proficient in JavaScript, TypeScript, React.js, Redux + Saga, Node.js, Express.js, MongoDB (MERN stack). HTML, CSS & Styled Components.
+I'm a Full Stack Web Developer proficient in JavaScript, TypeScript, React.js, Redux, Node.js, Express.js, MongoDB (MERN stack). HTML & CSS.
 
-Ready to perform and expand my capabilities in a professional tech environment.
+With a focus on constant evolution and personal and professional growth.
 
 #
 

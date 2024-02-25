@@ -2,7 +2,7 @@
 
 **`Full Stack Web Developer`**
 
-Full Stack Web Developer with proficiency in cutting-edge technologies and a focus on crafting effective digital solutions.
+Proficient in cutting-edge technologies and a focus on crafting effective digital solutions.
 
 My ability to seamlessly merge creative design with efficient code has led to success in every project. 
 
@@ -140,7 +140,7 @@ Passionate about continuous learning and adaptability, I consistently strive to 
 
 ## Recent projects:
 
-![jerry-personal-finance-assistant netlify app_(iPhone 12 Pro) SMALL](https://github.com/Dani-RG/Dani-RG/assets/115584425/a8ff8e58-1051-462a-94b1-fd648b115371)
+![r6-frontend-app-small](https://github.com/Dani-RG/Dani-RG/assets/115584425/348bb916-e9c8-421a-b2de-4d2d4d99587e)
 ### JERRY: Personal finance assistant:
 A Full Stack web application on TypeScript and React, about a Personal Finance Assistant, which helps to correctly record all the user's money movements. Powered by artificial intelligence by integrating OpenAI's Whisper converting the user's voice into text to record the messages.
 - [Webpage link](https://jerry-personal-finance-assistant.netlify.app/)

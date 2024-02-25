@@ -140,14 +140,14 @@ Passionate about continuous learning and adaptability, I consistently strive to 
 
 ## Recent projects:
 
-![r6-frontend-app-small](https://github.com/Dani-RG/Dani-RG/assets/115584425/348bb916-e9c8-421a-b2de-4d2d4d99587e)
+![jerry-personal-finance-assistant netlify app_(iPhone 12 Pro) SMALL](https://github.com/Dani-RG/Dani-RG/assets/115584425/a8ff8e58-1051-462a-94b1-fd648b115371)
 ### JERRY: Personal finance assistant:
 A Full Stack web application on TypeScript and React, about a Personal Finance Assistant, which helps to correctly record all the user's money movements. Powered by artificial intelligence by integrating OpenAI's Whisper converting the user's voice into text to record the messages.
 - [Webpage link](https://jerry-personal-finance-assistant.netlify.app/)
 
 ---
 
-![r6-frontend-react-redux-app-01](https://github.com/Dani-RG/Dani-RG/assets/115584425/774968e2-a417-44e4-8d16-77d2d0b28fca)
+![r6-frontend-app-small](https://github.com/Dani-RG/Dani-RG/assets/115584425/348bb916-e9c8-421a-b2de-4d2d4d99587e)
 ### R6:
 A Front End web application, built with React.js, handling states using Redux and Saga, user authentication through social login, consuming external APIs, handling requests with Axios, using Styled Components and featuring responsive design. Implementation of tests with RTL React Testing Library and Jest.
 - [Webpage link](https://github.com/Dani-RG/r6_react-redux-frontend-app)
